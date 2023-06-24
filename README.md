@@ -1,3 +1,3 @@
 # samsung-medison
 
-커밋 확인4
+커밋 확인5
